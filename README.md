@@ -1,4 +1,4 @@
-# gruvbox-on-everything
+# Gruvbox on Everything
 Gruvbox ports for every softwares, apps
 
 # Android
