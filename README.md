@@ -24,4 +24,4 @@ Gruvbox colorschemes ports for every softwares, apps
 - [Vim](https://github.com/morhetz/gruvbox)
 
 # Other
-- [Wallpapers](https://github.com/p3nguin-kun/gruvbox-wallpapers)
+- [Wallpapers](https://p3nguin-kun.github.io/gruvbox-wallpapers)
