@@ -1,6 +1,12 @@
 # Gruvbox on Everything
 Gruvbox colorschemes ports for every softwares, apps
 
+# Contributions
+
+1. Fork this repository
+2. Edit README.md, add links to the ports
+3. Make a pull request
+
 # Palette
 ### Dark:
 ![dark](https://camo.githubusercontent.com/410b3ab80570bcd5b470a08d84f93caa5b4962ccd994ebceeb3d1f78364c2120/687474703a2f2f692e696d6775722e636f6d2f776136363678672e706e67)
